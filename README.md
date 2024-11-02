@@ -1,0 +1,2 @@
+The loss function in Physics-Informed Neural Networks (PINNs) combines data loss, physics loss, and boundary/initial condition loss. Data loss measures the fit between model predictions and actual observations. Physics loss ensures compliance with governing equations, while boundary and initial condition loss enforces constraints specific to the problem. This multi-faceted approach allows PINNs to accurately represent physical phenomena while learning from data.
+the diffusion heat equation is used 
