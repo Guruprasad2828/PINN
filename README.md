@@ -42,13 +42,7 @@ Physics-Informed Neural Networks combine the power of deep learning with physica
 - 2D contour plots from PINN and NASTRAN show **high correlation**.
 - Errors are minimal, indicating that PINNs can be reliable tools for heat transfer problems.
 
-### Sample Output
 
-| PINN Prediction | NASTRAN Result |
-|------------------|------------------|
-| ![PINN Contour](images/pinn_output.png) | ![NASTRAN Contour](images/nastran_output.png) |
-
----
 
 
 
