@@ -18,7 +18,7 @@ Physics-Informed Neural Networks combine the power of deep learning with physica
 
 ---
 
-## 🛠Tools & Technologies
+## Tools & Technologies
 
 - **Python** (NumPy, PyTorch/TensorFlow, Matplotlib)
 - **PINN Framework** (custom implementation or libraries like DeepXDE)
